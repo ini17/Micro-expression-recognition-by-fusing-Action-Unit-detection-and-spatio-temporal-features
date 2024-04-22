@@ -86,6 +86,3 @@ optional arguments:
     pages     = {1571-1580}
 }
 ```
-# -Micro-expression-recognition-by-fusing-Action-Unit-detection-and-spatio-temporal-features
-# -Micro-expression-recognition-by-fusing-Action-Unit-detection-and-spatio-temporal-features
-# Micro-expression-recognition-by-fusing-Action-Unit-detection-and-spatio-temporal-features
