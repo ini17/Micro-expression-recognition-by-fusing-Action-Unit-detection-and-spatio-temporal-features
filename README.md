@@ -1,7 +1,6 @@
 # README
 ## Introduction
-The source code was trying to reproduce the paper - "Micro-expression Recognition Based on Facial Graph Representation Learning and Facial Action Unit Fusion". [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/AUVi/papers/Lei_Micro-Expression_Recognition_Based_on_Facial_Graph_Representation_Learning_and_Facial_CVPRW_2021_paper.pdf) [[official code]](https://github.com/raying777/FGRMER)
-
+The source code was trying to reproduce the paper - "Micro expression recognition by fusing Action Unit detection and spatio-temporal features". [[paper]](https://ieeexplore.ieee.org/abstract/document/10446702)
 ## Installation
 
 ### Requirements
@@ -77,12 +76,12 @@ optional arguments:
 
 ## Citation
 ```bibtex
-@InProceedings{Lei_2021_CVPR,
-    author    = {Lei, Ling and Chen, Tong and Li, Shigang and Li, Jianfeng},
-    title     = {Micro-Expression Recognition Based on Facial Graph Representation Learning and Facial Action Unit Fusion},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2021},
-    pages     = {1571-1580}
+@inproceedings{wang2024micro,
+  title={Micro-expression recognition by fusing action unit detection and Spatio-temporal features},
+  author={Wang, Lei and Huang, Pinyi and Cai, Wangyang and Liu, Xiyao},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5595--5599},
+  year={2024},
+  organization={IEEE}
 }
 ```
