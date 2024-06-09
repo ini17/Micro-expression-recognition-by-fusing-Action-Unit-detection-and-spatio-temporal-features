@@ -1,6 +1,6 @@
 # README
 ## Introduction
-The source code was trying to reproduce the paper - "Micro expression recognition by fusing Action Unit detection and spatio-temporal features". [[paper]](https://ieeexplore.ieee.org/abstract/document/10446702)
+The source code was our paper - "Micro expression recognition by fusing Action Unit detection and spatio-temporal features". [[paper]](https://ieeexplore.ieee.org/abstract/document/10446702)
 ## Installation
 
 ### Requirements
