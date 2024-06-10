@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This zip package contains all the code needed to reproduce the results of this paper - "Micro-expression Recognition by Fusing AU Detection and Spatio-temporal Features" - [[paper]](https://ieeexplore.ieee.org/abstract/document/10446702). It mainly includes two parts of code, one is Matlab code, and the other is Python code.
+This repo contains all the code needed to reproduce the results of this paper - "Micro-expression Recognition by Fusing AU Detection and Spatio-temporal Features" - [[paper]](https://ieeexplore.ieee.org/abstract/document/10446702). It mainly includes two parts of code, one is Matlab code, and the other is Python code.
 
 ## Installation for Python
 
