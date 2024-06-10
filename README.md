@@ -58,3 +58,14 @@ optional arguments:
                         Learning rate for training the model
 ```
 
+## Citation
+```
+@inproceedings{wang2024micro,
+  title={Micro-expression recognition by fusing action unit detection and Spatio-temporal features},
+  author={Wang, Lei and Huang, Pinyi and Cai, Wangyang and Liu, Xiyao},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5595--5599},
+  year={2024},
+  organization={IEEE}
+}
+```
